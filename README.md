@@ -22,7 +22,7 @@ A full-stack inventory system built to demonstrate **Clean Architecture** with .
    git clone [https://github.com/YOUR_USERNAME/inventory-analytics-suite.git](https://github.com/YOUR_USERNAME/inventory-analytics-suite.git)
 
 ### 2. The Kanban Board (GitHub Projects)
-Keep these cards simple and technical.
+
 
 **Done Column:**
 * Project Setup: Clean Architecture Solution (Core/Infra/API)
