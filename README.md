@@ -20,3 +20,18 @@ A full-stack inventory system built to demonstrate **Clean Architecture** with .
 1. **Clone the repo**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/inventory-analytics-suite.git](https://github.com/YOUR_USERNAME/inventory-analytics-suite.git)
+
+### 2. The Kanban Board (GitHub Projects)
+Keep these cards simple and technical.
+
+**Done Column:**
+* Project Setup: Clean Architecture Solution (Core/Infra/API)
+* Database: EF Core setup & MSSQL connection
+* API: Created ProductsController (GET/POST)
+
+**Todo Column :**
+* **Frontend Setup:** Initialize Blazor Web App project.
+* **API Client:** Create C# service to consume the API.
+* **UI - List View:** Build page to display product table.
+* **UI - Add Product:** Build form to create new inventory.
+* **Analytics:** Connect Power BI to SQL Database.
